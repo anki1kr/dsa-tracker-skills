@@ -1,0 +1,26 @@
+{
+  "name": "dsa-tracker",
+  "version": "0.1.0",
+  "description": "Agent skills for DSA Tracker: role-based problem recommendations, spaced revision, and sheet comparisons.",
+  "author": {
+    "name": "anki1kr",
+    "url": "https://github.com/anki1kr"
+  },
+  "homepage": "https://dsatracker.tech",
+  "repository": "https://github.com/anki1kr/dsa-tracker-skills",
+  "license": "MIT",
+  "keywords": [
+    "dsa",
+    "interview-prep",
+    "leetcode",
+    "striver",
+    "babbar",
+    "apna-college",
+    "spaced-repetition"
+  ],
+  "skills": [
+    "./skills/dsa-next",
+    "./skills/dsa-revise",
+    "./skills/dsa-sheets"
+  ]
+}

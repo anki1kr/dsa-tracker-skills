@@ -1,0 +1,939 @@
+{
+  "built": "2026-11-10",
+  "source": "https://dsatracker.tech",
+  "roles": [
+    "SDE / Software Engineer",
+    "Backend Engineer",
+    "Frontend Engineer",
+    "Full-Stack Developer",
+    "Data Engineer",
+    "ML Engineer",
+    "Android Developer",
+    "iOS Developer",
+    "SDET / QA Engineer",
+    "Data Analyst",
+    "Game Developer",
+    "Graphics Engineer",
+    "Embedded / Firmware Engineer",
+    "Security Engineer",
+    "Cryptography Engineer",
+    "Performance Engineer",
+    "Site Reliability Engineer",
+    "Cloud Engineer",
+    "Search Engineer",
+    "Information Retrieval Engineer",
+    "Database Engineer",
+    "Storage Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer",
+    "Robotics Engineer",
+    "Compiler / PL Engineer",
+    "Quant Developer",
+    "Blockchain / Web3 Engineer",
+    "Bioinformatics Engineer",
+    "Networking Engineer"
+  ],
+  "default_role": "SDE / Software Engineer",
+  "role_topic_map": {
+    "SDE / Software Engineer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Graph",
+        "Dynamic Programming",
+        "Stack",
+        "Queue",
+        "Binary Search"
+      ],
+      "medium": [
+        "Backtracking",
+        "Heap",
+        "Two Pointers",
+        "Sliding Window",
+        "Recursion"
+      ],
+      "low": [
+        "Math",
+        "Bit Manipulation",
+        "Trie",
+        "Intervals",
+        "Matrix",
+        "Sorting",
+        "Greedy"
+      ]
+    },
+    "Backend Engineer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Linked List",
+        "Heap",
+        "Sliding Window",
+        "Intervals",
+        "Graph",
+        "Stack",
+        "Queue"
+      ],
+      "medium": [
+        "Binary Search",
+        "Binary Trees",
+        "Two Pointers",
+        "Sorting",
+        "Trie",
+        "Greedy"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Backtracking",
+        "BST",
+        "Recursion",
+        "Matrix",
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    "Frontend Engineer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Two Pointers",
+        "Sliding Window",
+        "Recursion",
+        "Sorting"
+      ],
+      "medium": [
+        "Stack",
+        "Queue",
+        "Matrix",
+        "Intervals"
+      ],
+      "low": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Binary Search",
+        "Greedy",
+        "Math"
+      ]
+    },
+    "Full-Stack Developer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Two Pointers",
+        "Sliding Window",
+        "Stack",
+        "Queue",
+        "Sorting"
+      ],
+      "medium": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Binary Search",
+        "Recursion",
+        "Matrix",
+        "Intervals"
+      ],
+      "low": [
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Greedy",
+        "Math"
+      ]
+    },
+    "Data Engineer": {
+      "core": [
+        "Arrays",
+        "Sorting",
+        "Math",
+        "Matrix",
+        "Intervals",
+        "Two Pointers",
+        "Graph"
+      ],
+      "medium": [
+        "Strings",
+        "Binary Search",
+        "Heap",
+        "Stack",
+        "Queue",
+        "Sliding Window"
+      ],
+      "low": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Trie",
+        "Recursion",
+        "Greedy"
+      ]
+    },
+    "ML Engineer": {
+      "core": [
+        "Arrays",
+        "Matrix",
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Binary Search"
+      ],
+      "medium": [
+        "Sorting",
+        "Two Pointers",
+        "Sliding Window",
+        "Heap",
+        "Bit Manipulation"
+      ],
+      "low": [
+        "Strings",
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Graph",
+        "Backtracking",
+        "Stack",
+        "Queue",
+        "Trie",
+        "Intervals",
+        "Greedy"
+      ]
+    },
+    "Android Developer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Two Pointers",
+        "Recursion",
+        "Stack",
+        "Queue"
+      ],
+      "medium": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Binary Search",
+        "Matrix",
+        "Sorting"
+      ],
+      "low": [
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Intervals",
+        "Sliding Window",
+        "Greedy",
+        "Math"
+      ]
+    },
+    "iOS Developer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Two Pointers",
+        "Recursion",
+        "Stack",
+        "Queue"
+      ],
+      "medium": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Binary Search",
+        "Matrix",
+        "Sorting"
+      ],
+      "low": [
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Intervals",
+        "Sliding Window",
+        "Greedy",
+        "Math"
+      ]
+    },
+    "SDET / QA Engineer": {
+      "core": [
+        "Arrays",
+        "Strings",
+        "Two Pointers",
+        "Stack",
+        "Queue",
+        "Recursion",
+        "Sorting"
+      ],
+      "medium": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Binary Search",
+        "Matrix",
+        "Intervals"
+      ],
+      "low": [
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Sliding Window",
+        "Greedy",
+        "Math"
+      ]
+    },
+    "Data Analyst": {
+      "core": [
+        "Arrays",
+        "Math",
+        "Sorting",
+        "Matrix",
+        "Two Pointers"
+      ],
+      "medium": [
+        "Strings",
+        "Binary Search",
+        "Intervals"
+      ],
+      "low": [
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Graph",
+        "Dynamic Programming",
+        "Backtracking",
+        "Heap",
+        "Bit Manipulation",
+        "Trie",
+        "Recursion",
+        "Stack",
+        "Queue",
+        "Sliding Window",
+        "Greedy"
+      ]
+    },
+    "Game Developer": {
+      "core": [
+        "Math",
+        "Matrix",
+        "Arrays",
+        "Recursion",
+        "Graph",
+        "Heap",
+        "Bit Manipulation"
+      ],
+      "medium": [
+        "Binary Trees",
+        "Sorting",
+        "Stack",
+        "Queue",
+        "Dynamic Programming",
+        "Binary Search"
+      ],
+      "low": [
+        "Strings",
+        "Trie",
+        "Linked List",
+        "BST",
+        "Backtracking",
+        "Sliding Window",
+        "Greedy",
+        "Two Pointers",
+        "Intervals"
+      ]
+    },
+    "Graphics Engineer": {
+      "core": [
+        "Math",
+        "Matrix",
+        "Bit Manipulation",
+        "Arrays",
+        "Binary Trees",
+        "Recursion",
+        "Sorting"
+      ],
+      "medium": [
+        "Binary Search",
+        "Heap",
+        "Two Pointers",
+        "Stack",
+        "Intervals"
+      ],
+      "low": [
+        "Graph",
+        "Dynamic Programming",
+        "Strings",
+        "Trie",
+        "Linked List",
+        "BST",
+        "Backtracking",
+        "Sliding Window",
+        "Greedy",
+        "Queue"
+      ]
+    },
+    "Embedded / Firmware Engineer": {
+      "core": [
+        "Bit Manipulation",
+        "Arrays",
+        "Linked List",
+        "Queue",
+        "Math",
+        "Stack",
+        "Two Pointers"
+      ],
+      "medium": [
+        "Strings",
+        "Binary Search",
+        "Sorting",
+        "Heap",
+        "Matrix"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Graph",
+        "Binary Trees",
+        "BST",
+        "Greedy",
+        "Backtracking",
+        "Trie",
+        "Sliding Window",
+        "Recursion",
+        "Intervals"
+      ]
+    },
+    "Security Engineer": {
+      "core": [
+        "Strings",
+        "Arrays",
+        "Bit Manipulation",
+        "Trie",
+        "Intervals",
+        "Graph",
+        "Stack"
+      ],
+      "medium": [
+        "Two Pointers",
+        "Sliding Window",
+        "Math",
+        "Recursion",
+        "Backtracking",
+        "Sorting"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Binary Search",
+        "Greedy",
+        "Heap",
+        "Matrix",
+        "Queue"
+      ]
+    },
+    "Cryptography Engineer": {
+      "core": [
+        "Math",
+        "Bit Manipulation",
+        "Arrays",
+        "Matrix",
+        "Recursion",
+        "Strings"
+      ],
+      "medium": [
+        "Binary Search",
+        "Sorting",
+        "Two Pointers",
+        "Backtracking",
+        "Stack",
+        "Dynamic Programming"
+      ],
+      "low": [
+        "Graph",
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Trie",
+        "Heap",
+        "Greedy",
+        "Sliding Window",
+        "Intervals",
+        "Queue"
+      ]
+    },
+    "Performance Engineer": {
+      "core": [
+        "Arrays",
+        "Sorting",
+        "Binary Search",
+        "Heap",
+        "Bit Manipulation",
+        "Sliding Window",
+        "Matrix"
+      ],
+      "medium": [
+        "Math",
+        "Two Pointers",
+        "Graph",
+        "Intervals",
+        "Stack",
+        "Dynamic Programming"
+      ],
+      "low": [
+        "Strings",
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Trie",
+        "Backtracking",
+        "Greedy",
+        "Recursion",
+        "Queue"
+      ]
+    },
+    "Site Reliability Engineer": {
+      "core": [
+        "Graph",
+        "Heap",
+        "Intervals",
+        "Sliding Window",
+        "Queue",
+        "Arrays",
+        "Sorting"
+      ],
+      "medium": [
+        "Binary Search",
+        "Strings",
+        "Greedy",
+        "Stack",
+        "Math",
+        "Two Pointers"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Trie",
+        "Backtracking",
+        "Bit Manipulation",
+        "Recursion",
+        "Matrix"
+      ]
+    },
+    "Cloud Engineer": {
+      "core": [
+        "Graph",
+        "Intervals",
+        "Bit Manipulation",
+        "Greedy",
+        "Trie",
+        "Arrays",
+        "Strings"
+      ],
+      "medium": [
+        "Sorting",
+        "Heap",
+        "Binary Search",
+        "Math",
+        "Queue",
+        "Two Pointers"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Stack",
+        "Backtracking",
+        "Recursion",
+        "Matrix",
+        "Sliding Window"
+      ]
+    },
+    "Search Engineer": {
+      "core": [
+        "Trie",
+        "Strings",
+        "Heap",
+        "Sorting",
+        "Two Pointers",
+        "Binary Search",
+        "Arrays"
+      ],
+      "medium": [
+        "Dynamic Programming",
+        "Graph",
+        "Sliding Window",
+        "Intervals",
+        "Math",
+        "Greedy"
+      ],
+      "low": [
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Stack",
+        "Queue",
+        "Backtracking",
+        "Bit Manipulation",
+        "Recursion",
+        "Matrix"
+      ]
+    },
+    "Information Retrieval Engineer": {
+      "core": [
+        "Strings",
+        "Heap",
+        "Sorting",
+        "Math",
+        "Matrix",
+        "Dynamic Programming",
+        "Arrays"
+      ],
+      "medium": [
+        "Trie",
+        "Two Pointers",
+        "Graph",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "low": [
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Stack",
+        "Queue",
+        "Backtracking",
+        "Greedy",
+        "Recursion",
+        "Intervals"
+      ]
+    },
+    "Database Engineer": {
+      "core": [
+        "Binary Search",
+        "Sorting",
+        "BST",
+        "Trie",
+        "Heap",
+        "Dynamic Programming",
+        "Intervals"
+      ],
+      "medium": [
+        "Arrays",
+        "Graph",
+        "Strings",
+        "Two Pointers",
+        "Linked List",
+        "Math"
+      ],
+      "low": [
+        "Binary Trees",
+        "Stack",
+        "Queue",
+        "Backtracking",
+        "Bit Manipulation",
+        "Greedy",
+        "Recursion",
+        "Matrix",
+        "Sliding Window"
+      ]
+    },
+    "Storage Engineer": {
+      "core": [
+        "Bit Manipulation",
+        "Intervals",
+        "Heap",
+        "Sorting",
+        "Linked List",
+        "Binary Search",
+        "Arrays"
+      ],
+      "medium": [
+        "Two Pointers",
+        "Trie",
+        "Math",
+        "Queue",
+        "Stack",
+        "BST"
+      ],
+      "low": [
+        "Dynamic Programming",
+        "Graph",
+        "Binary Trees",
+        "Strings",
+        "Backtracking",
+        "Greedy",
+        "Recursion",
+        "Matrix",
+        "Sliding Window"
+      ]
+    },
+    "Computer Vision Engineer": {
+      "core": [
+        "Matrix",
+        "Math",
+        "Arrays",
+        "Graph",
+        "Dynamic Programming",
+        "Sliding Window",
+        "Recursion"
+      ],
+      "medium": [
+        "Two Pointers",
+        "Sorting",
+        "Heap",
+        "Intervals",
+        "Binary Search",
+        "Queue"
+      ],
+      "low": [
+        "Strings",
+        "Trie",
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Stack",
+        "Backtracking",
+        "Greedy",
+        "Bit Manipulation"
+      ]
+    },
+    "NLP Engineer": {
+      "core": [
+        "Strings",
+        "Trie",
+        "Dynamic Programming",
+        "Heap",
+        "Recursion",
+        "Math",
+        "Arrays"
+      ],
+      "medium": [
+        "Graph",
+        "Stack",
+        "Matrix",
+        "Sliding Window",
+        "Intervals",
+        "Sorting"
+      ],
+      "low": [
+        "Binary Trees",
+        "BST",
+        "Linked List",
+        "Queue",
+        "Backtracking",
+        "Greedy",
+        "Bit Manipulation",
+        "Binary Search",
+        "Two Pointers"
+      ]
+    },
+    "Robotics Engineer": {
+      "core": [
+        "Graph",
+        "Math",
+        "Matrix",
+        "Heap",
+        "Queue",
+        "Arrays",
+        "Greedy"
+      ],
+      "medium": [
+        "Dynamic Programming",
+        "Recursion",
+        "Binary Search",
+        "Sorting",
+        "Sliding Window",
+        "Backtracking"
+      ],
+      "low": [
+        "Strings",
+        "Trie",
+        "Linked List",
+        "Binary Trees",
+        "BST",
+        "Stack",
+        "Bit Manipulation",
+        "Two Pointers",
+        "Intervals"
+      ]
+    },
+    "Compiler / PL Engineer": {
+      "core": [
+        "Binary Trees",
+        "Recursion",
+        "Stack",
+        "Graph",
+        "Dynamic Programming"
+      ],
+      "medium": [
+        "Strings",
+        "Backtracking",
+        "Heap",
+        "Two Pointers",
+        "BST"
+      ],
+      "low": [
+        "Arrays",
+        "Binary Search",
+        "Bit Manipulation",
+        "Greedy",
+        "Intervals",
+        "Linked List",
+        "Math",
+        "Matrix",
+        "Queue",
+        "Sliding Window",
+        "Sorting",
+        "Trie"
+      ]
+    },
+    "Quant Developer": {
+      "core": [
+        "Math",
+        "Dynamic Programming",
+        "Arrays",
+        "Sorting",
+        "Binary Search"
+      ],
+      "medium": [
+        "Sliding Window",
+        "Two Pointers",
+        "Heap",
+        "Intervals",
+        "Greedy"
+      ],
+      "low": [
+        "BST",
+        "Backtracking",
+        "Binary Trees",
+        "Bit Manipulation",
+        "Graph",
+        "Linked List",
+        "Matrix",
+        "Queue",
+        "Recursion",
+        "Stack",
+        "Strings",
+        "Trie"
+      ]
+    },
+    "Blockchain / Web3 Engineer": {
+      "core": [
+        "Binary Trees",
+        "Bit Manipulation",
+        "Math",
+        "Graph",
+        "Arrays"
+      ],
+      "medium": [
+        "Strings",
+        "Recursion",
+        "Greedy",
+        "Two Pointers",
+        "Heap"
+      ],
+      "low": [
+        "BST",
+        "Backtracking",
+        "Binary Search",
+        "Dynamic Programming",
+        "Intervals",
+        "Linked List",
+        "Matrix",
+        "Queue",
+        "Sliding Window",
+        "Sorting",
+        "Stack",
+        "Trie"
+      ]
+    },
+    "Bioinformatics Engineer": {
+      "core": [
+        "Strings",
+        "Dynamic Programming",
+        "Two Pointers",
+        "Trie"
+      ],
+      "medium": [
+        "Arrays",
+        "Graph",
+        "Sliding Window",
+        "Sorting",
+        "Binary Search"
+      ],
+      "low": [
+        "BST",
+        "Backtracking",
+        "Binary Trees",
+        "Bit Manipulation",
+        "Greedy",
+        "Heap",
+        "Intervals",
+        "Linked List",
+        "Math",
+        "Matrix",
+        "Queue",
+        "Recursion",
+        "Stack"
+      ]
+    },
+    "Networking Engineer": {
+      "core": [
+        "Graph",
+        "Trie",
+        "Greedy",
+        "Queue"
+      ],
+      "medium": [
+        "Heap",
+        "Intervals",
+        "Arrays",
+        "Sorting",
+        "Binary Search"
+      ],
+      "low": [
+        "BST",
+        "Backtracking",
+        "Binary Trees",
+        "Bit Manipulation",
+        "Dynamic Programming",
+        "Linked List",
+        "Math",
+        "Matrix",
+        "Recursion",
+        "Sliding Window",
+        "Stack",
+        "Strings",
+        "Two Pointers"
+      ]
+    }
+  }
+}

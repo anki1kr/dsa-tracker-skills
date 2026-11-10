@@ -1,0 +1,16 @@
+{
+  "name": "dsa-tracker-skills",
+  "owner": {
+    "name": "anki1kr",
+    "url": "https://github.com/anki1kr"
+  },
+  "description": "dsa-tracker-skills: agent skills for role-based DSA prep, spaced revision, and sheet comparisons.",
+  "plugins": [
+    {
+      "name": "dsa-tracker",
+      "source": "./",
+      "description": "Agent skills for DSA Tracker: role-based problem recommendations, spaced revision, and sheet comparisons.",
+      "version": "0.1.0"
+    }
+  ]
+}

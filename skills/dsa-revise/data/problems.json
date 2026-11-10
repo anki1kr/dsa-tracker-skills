@@ -1,0 +1,4745 @@
+{
+  "built": "2026-11-10",
+  "source": "https://dsatracker.tech",
+  "total": 370,
+  "consensus_count": 75,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/two-sum",
+      "practice_url": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+      "id": 2,
+      "title": "Min and Max in Array",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/min-and-max-in-array",
+      "practice_url": "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1"
+    },
+    {
+      "id": 3,
+      "title": "Reverse Array",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reverse-array",
+      "practice_url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
+    },
+    {
+      "id": 4,
+      "title": "Maximum Subarray",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/maximum-subarray",
+      "practice_url": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+      "id": 5,
+      "title": "Contains Duplicate",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/contains-duplicate",
+      "practice_url": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Distribution Problem",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/chocolate-distribution-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1"
+    },
+    {
+      "id": 7,
+      "title": "Search in Rotated Sorted Array",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/search-in-rotated-sorted-array",
+      "practice_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+      "id": 8,
+      "title": "Best Time to Buy and Sell Stock",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "id": 9,
+      "title": "Missing And Repeating",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/missing-and-repeating",
+      "practice_url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+    },
+    {
+      "id": 10,
+      "title": "Kth Largest Element in an Array",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/kth-largest-element-in-an-array",
+      "practice_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+      "id": 11,
+      "title": "Trapping Rain Water",
+      "topic": "Arrays",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/trapping-rain-water",
+      "practice_url": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+      "id": 12,
+      "title": "Product of Array Except Self",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/product-of-array-except-self",
+      "practice_url": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+      "id": 13,
+      "title": "Maximum Product Subarray",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximum-product-subarray",
+      "practice_url": "https://leetcode.com/problems/maximum-product-subarray/"
+    },
+    {
+      "id": 14,
+      "title": "Find Minimum in Rotated Sorted Array",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-minimum-in-rotated-sorted-array",
+      "practice_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+      "id": 15,
+      "title": "Find the Duplicate Number",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-the-duplicate-number",
+      "practice_url": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+      "id": 16,
+      "title": "Container With Most Water",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/container-with-most-water",
+      "practice_url": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+      "id": 17,
+      "title": "3Sum",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/3sum",
+      "practice_url": "https://leetcode.com/problems/3sum/"
+    },
+    {
+      "id": 18,
+      "title": "Merge Sorted Array",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/merge-sorted-array",
+      "practice_url": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+      "id": 19,
+      "title": "Next Permutation",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/next-permutation",
+      "practice_url": "https://leetcode.com/problems/next-permutation/"
+    },
+    {
+      "id": 20,
+      "title": "Pascal's Triangle",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/pascal-s-triangle",
+      "practice_url": "https://leetcode.com/problems/pascals-triangle/"
+    },
+    {
+      "id": 21,
+      "title": "Majority Element",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/majority-element",
+      "practice_url": "https://leetcode.com/problems/majority-element/"
+    },
+    {
+      "id": 22,
+      "title": "Majority Element II",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/majority-element-ii",
+      "practice_url": "https://leetcode.com/problems/majority-element-ii/"
+    },
+    {
+      "id": 23,
+      "title": "Sort Colors",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/sort-colors",
+      "practice_url": "https://leetcode.com/problems/sort-colors/"
+    },
+    {
+      "id": 24,
+      "title": "Best Time to Buy and Sell Stock II",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock-ii",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+      "id": 25,
+      "title": "Rotate Array",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/rotate-array",
+      "practice_url": "https://leetcode.com/problems/rotate-array/"
+    },
+    {
+      "id": 26,
+      "title": "Spiral Matrix",
+      "topic": "Matrix",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/spiral-matrix",
+      "practice_url": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+      "id": 27,
+      "title": "Set Matrix Zeroes",
+      "topic": "Matrix",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/set-matrix-zeroes",
+      "practice_url": "https://leetcode.com/problems/set-matrix-zeroes/"
+    },
+    {
+      "id": 28,
+      "title": "Rotate Image",
+      "topic": "Matrix",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/rotate-image",
+      "practice_url": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+      "id": 29,
+      "title": "Search a 2D Matrix",
+      "topic": "Matrix",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/search-a-2d-matrix",
+      "practice_url": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+      "id": 30,
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "topic": "Matrix",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-negative-numbers-in-a-sorted-matrix",
+      "practice_url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/"
+    },
+    {
+      "id": 31,
+      "title": "Word Search",
+      "topic": "Matrix",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-search",
+      "practice_url": "https://leetcode.com/problems/word-search/"
+    },
+    {
+      "id": 32,
+      "title": "Longest Substring Without Repeating Characters",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/longest-substring-without-repeating-characters",
+      "practice_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      "id": 33,
+      "title": "Longest Repeating Character Replacement",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-repeating-character-replacement",
+      "practice_url": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+      "id": 34,
+      "title": "Minimum Window Substring",
+      "topic": "Strings",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-window-substring",
+      "practice_url": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+      "id": 35,
+      "title": "Valid Palindrome",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/valid-palindrome",
+      "practice_url": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+      "id": 36,
+      "title": "Group Anagrams",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/group-anagrams",
+      "practice_url": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+      "id": 37,
+      "title": "Valid Anagram",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/valid-anagram",
+      "practice_url": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+      "id": 38,
+      "title": "Palindromic Substrings",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/palindromic-substrings",
+      "practice_url": "https://leetcode.com/problems/palindromic-substrings/"
+    },
+    {
+      "id": 39,
+      "title": "Encode and Decode Strings",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/encode-and-decode-strings",
+      "practice_url": "https://www.geeksforgeeks.org/problems/encode-and-decode-strings/1"
+    },
+    {
+      "id": 40,
+      "title": "Reverse Words in a String",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/reverse-words-in-a-string",
+      "practice_url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+    },
+    {
+      "id": 41,
+      "title": "Longest Palindromic Substring",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/longest-palindromic-substring",
+      "practice_url": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+      "id": 42,
+      "title": "String to Integer (atoi)",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/string-to-integer-atoi",
+      "practice_url": "https://leetcode.com/problems/string-to-integer-atoi/"
+    },
+    {
+      "id": 43,
+      "title": "Count and Say",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-and-say",
+      "practice_url": "https://leetcode.com/problems/count-and-say/"
+    },
+    {
+      "id": 44,
+      "title": "Find the Index of the First Occurrence in a String",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-the-index-of-the-first-occurrence-in-a-string",
+      "practice_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+    },
+    {
+      "id": 45,
+      "title": "Longest Common Prefix",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-common-prefix",
+      "practice_url": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+      "id": 46,
+      "title": "Roman to Integer",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/roman-to-integer",
+      "practice_url": "https://leetcode.com/problems/roman-to-integer/"
+    },
+    {
+      "id": 47,
+      "title": "Integer to Roman",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/integer-to-roman",
+      "practice_url": "https://leetcode.com/problems/integer-to-roman/"
+    },
+    {
+      "id": 48,
+      "title": "Permutation in String",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/permutation-in-string",
+      "practice_url": "https://leetcode.com/problems/permutation-in-string/"
+    },
+    {
+      "id": 49,
+      "title": "Isomorphic Strings",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/isomorphic-strings",
+      "practice_url": "https://leetcode.com/problems/isomorphic-strings/"
+    },
+    {
+      "id": 50,
+      "title": "Repeated String Match",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/repeated-string-match",
+      "practice_url": "https://leetcode.com/problems/repeated-string-match/"
+    },
+    {
+      "id": 51,
+      "title": "Reverse Linked List",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/reverse-linked-list",
+      "practice_url": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+      "id": 52,
+      "title": "Linked List Cycle",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/linked-list-cycle",
+      "practice_url": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+      "id": 53,
+      "title": "Merge Two Sorted Lists",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/merge-two-sorted-lists",
+      "practice_url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+      "id": 54,
+      "title": "Remove Nth Node From End of List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/remove-nth-node-from-end-of-list",
+      "practice_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+      "id": 55,
+      "title": "Merge k Sorted Lists",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/merge-k-sorted-lists",
+      "practice_url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+      "id": 56,
+      "title": "Reorder List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reorder-list",
+      "practice_url": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+      "id": 57,
+      "title": "Middle of the Linked List",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/middle-of-the-linked-list",
+      "practice_url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+    },
+    {
+      "id": 58,
+      "title": "Palindrome Linked List",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/palindrome-linked-list",
+      "practice_url": "https://leetcode.com/problems/palindrome-linked-list/"
+    },
+    {
+      "id": 59,
+      "title": "Delete Node in a Linked List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/delete-node-in-a-linked-list",
+      "practice_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+    },
+    {
+      "id": 60,
+      "title": "Intersection of Two Linked Lists",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/intersection-of-two-linked-lists",
+      "practice_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+    },
+    {
+      "id": 61,
+      "title": "Add Two Numbers",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/add-two-numbers",
+      "practice_url": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+      "id": 62,
+      "title": "Copy List with Random Pointer",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/copy-list-with-random-pointer",
+      "practice_url": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+    },
+    {
+      "id": 63,
+      "title": "Rotate List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/rotate-list",
+      "practice_url": "https://leetcode.com/problems/rotate-list/"
+    },
+    {
+      "id": 64,
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/flatten-a-multilevel-doubly-linked-list",
+      "practice_url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/"
+    },
+    {
+      "id": 65,
+      "title": "Swap Nodes in Pairs",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/swap-nodes-in-pairs",
+      "practice_url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+    },
+    {
+      "id": 66,
+      "title": "Reverse Linked List II",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reverse-linked-list-ii",
+      "practice_url": "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+      "id": 67,
+      "title": "LRU Cache",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/lru-cache",
+      "practice_url": "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+      "id": 68,
+      "title": "Valid Parentheses",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/valid-parentheses",
+      "practice_url": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+      "id": 69,
+      "title": "Min Stack",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/min-stack",
+      "practice_url": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+      "id": 70,
+      "title": "Evaluate Reverse Polish Notation",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/evaluate-reverse-polish-notation",
+      "practice_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      "id": 71,
+      "title": "Generate Parentheses",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/generate-parentheses",
+      "practice_url": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+      "id": 72,
+      "title": "Daily Temperatures",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/daily-temperatures",
+      "practice_url": "https://leetcode.com/problems/daily-temperatures/"
+    },
+    {
+      "id": 73,
+      "title": "Car Fleet",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/car-fleet",
+      "practice_url": "https://leetcode.com/problems/car-fleet/"
+    },
+    {
+      "id": 74,
+      "title": "Largest Rectangle in Histogram",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/largest-rectangle-in-histogram",
+      "practice_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    },
+    {
+      "id": 75,
+      "title": "Next Greater Element I",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/next-greater-element-i",
+      "practice_url": "https://leetcode.com/problems/next-greater-element-i/"
+    },
+    {
+      "id": 76,
+      "title": "Next Greater Element II",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/next-greater-element-ii",
+      "practice_url": "https://leetcode.com/problems/next-greater-element-ii/"
+    },
+    {
+      "id": 77,
+      "title": "Decode String",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/decode-string",
+      "practice_url": "https://leetcode.com/problems/decode-string/"
+    },
+    {
+      "id": 78,
+      "title": "Implement Queue using Stacks",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/implement-queue-using-stacks",
+      "practice_url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+    },
+    {
+      "id": 79,
+      "title": "Implement Stack using Queues",
+      "topic": "Queue",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/implement-stack-using-queues",
+      "practice_url": "https://leetcode.com/problems/implement-stack-using-queues/"
+    },
+    {
+      "id": 80,
+      "title": "Sliding Window Maximum",
+      "topic": "Queue",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sliding-window-maximum",
+      "practice_url": "https://leetcode.com/problems/sliding-window-maximum/"
+    },
+    {
+      "id": 81,
+      "title": "Stream First Non-repeating",
+      "topic": "Queue",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/stream-first-non-repeating",
+      "practice_url": "https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1"
+    },
+    {
+      "id": 82,
+      "title": "Binary Search",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/binary-search",
+      "practice_url": "https://leetcode.com/problems/binary-search/"
+    },
+    {
+      "id": 83,
+      "title": "Search Insert Position",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/search-insert-position",
+      "practice_url": "https://leetcode.com/problems/search-insert-position/"
+    },
+    {
+      "id": 84,
+      "title": "Find Peak Element",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-peak-element",
+      "practice_url": "https://leetcode.com/problems/find-peak-element/"
+    },
+    {
+      "id": 85,
+      "title": "Sqrt(x)",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/sqrt-x",
+      "practice_url": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+      "id": 86,
+      "title": "Median of Two Sorted Arrays",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/median-of-two-sorted-arrays",
+      "practice_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+      "id": 87,
+      "title": "Koko Eating Bananas",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/koko-eating-bananas",
+      "practice_url": "https://leetcode.com/problems/koko-eating-bananas/"
+    },
+    {
+      "id": 88,
+      "title": "Capacity To Ship Packages Within D Days",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/capacity-to-ship-packages-within-d-days",
+      "practice_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/"
+    },
+    {
+      "id": 89,
+      "title": "Magnetic Force Between Two Balls",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/magnetic-force-between-two-balls",
+      "practice_url": "https://leetcode.com/problems/magnetic-force-between-two-balls/"
+    },
+    {
+      "id": 90,
+      "title": "The Painter's Partition Problem-II",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/the-painter-s-partition-problem-ii",
+      "practice_url": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
+    },
+    {
+      "id": 91,
+      "title": "Allocate Minimum Pages",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/allocate-minimum-pages",
+      "practice_url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
+    },
+    {
+      "id": 92,
+      "title": "Bubble Sort",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/bubble-sort",
+      "practice_url": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+    },
+    {
+      "id": 93,
+      "title": "Selection Sort",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/selection-sort",
+      "practice_url": "https://www.geeksforgeeks.org/problems/selection-sort/1"
+    },
+    {
+      "id": 94,
+      "title": "Insertion Sort",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/insertion-sort",
+      "practice_url": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+    },
+    {
+      "id": 95,
+      "title": "Merge Sort",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/merge-sort",
+      "practice_url": "https://www.geeksforgeeks.org/problems/merge-sort/1"
+    },
+    {
+      "id": 96,
+      "title": "Quick Sort",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/quick-sort",
+      "practice_url": "https://www.geeksforgeeks.org/problems/quick-sort/1"
+    },
+    {
+      "id": 97,
+      "title": "Count Inversions",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-inversions",
+      "practice_url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1"
+    },
+    {
+      "id": 98,
+      "title": "Nearly sorted",
+      "topic": "Sorting",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/nearly-sorted",
+      "practice_url": "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1"
+    },
+    {
+      "id": 99,
+      "title": "Merge Intervals",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/merge-intervals",
+      "practice_url": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+      "id": 100,
+      "title": "Insert Interval",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/insert-interval",
+      "practice_url": "https://leetcode.com/problems/insert-interval/"
+    },
+    {
+      "id": 101,
+      "title": "Non-overlapping Intervals",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/non-overlapping-intervals",
+      "practice_url": "https://leetcode.com/problems/non-overlapping-intervals/"
+    },
+    {
+      "id": 102,
+      "title": "Meeting Rooms",
+      "topic": "Intervals",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/meeting-rooms",
+      "practice_url": "https://www.geeksforgeeks.org/problems/attend-all-meetings/1"
+    },
+    {
+      "id": 103,
+      "title": "Meeting Rooms II",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/meeting-rooms-ii",
+      "practice_url": "https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1"
+    },
+    {
+      "id": 104,
+      "title": "Binary Tree Inorder Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/binary-tree-inorder-traversal",
+      "practice_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+    },
+    {
+      "id": 105,
+      "title": "Binary Tree Preorder Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/binary-tree-preorder-traversal",
+      "practice_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+    },
+    {
+      "id": 106,
+      "title": "Binary Tree Postorder Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/binary-tree-postorder-traversal",
+      "practice_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+    },
+    {
+      "id": 107,
+      "title": "Maximum Depth of Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/maximum-depth-of-binary-tree",
+      "practice_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+      "id": 108,
+      "title": "Invert Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/invert-binary-tree",
+      "practice_url": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+      "id": 109,
+      "title": "Same Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/same-tree",
+      "practice_url": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+      "id": 110,
+      "title": "Binary Tree Level Order Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/binary-tree-level-order-traversal",
+      "practice_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+    },
+    {
+      "id": 111,
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-zigzag-level-order-traversal",
+      "practice_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+    },
+    {
+      "id": 112,
+      "title": "Subtree of Another Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/subtree-of-another-tree",
+      "practice_url": "https://leetcode.com/problems/subtree-of-another-tree/"
+    },
+    {
+      "id": 113,
+      "title": "Symmetric Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/symmetric-tree",
+      "practice_url": "https://leetcode.com/problems/symmetric-tree/"
+    },
+    {
+      "id": 114,
+      "title": "Count Good Nodes in Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-good-nodes-in-binary-tree",
+      "practice_url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+    },
+    {
+      "id": 115,
+      "title": "Balanced Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/balanced-binary-tree",
+      "practice_url": "https://leetcode.com/problems/balanced-binary-tree/"
+    },
+    {
+      "id": 116,
+      "title": "Diameter of Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/diameter-of-binary-tree",
+      "practice_url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+    },
+    {
+      "id": 117,
+      "title": "Binary Tree Maximum Path Sum",
+      "topic": "Binary Trees",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-maximum-path-sum",
+      "practice_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+      "id": 118,
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/construct-binary-tree-from-preorder-and-inorder-traversal",
+      "practice_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+      "id": 119,
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/construct-binary-tree-from-inorder-and-postorder-traversal",
+      "practice_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+    },
+    {
+      "id": 120,
+      "title": "Serialize and Deserialize Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/serialize-and-deserialize-binary-tree",
+      "practice_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+    },
+    {
+      "id": 121,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/lowest-common-ancestor-of-a-binary-tree",
+      "practice_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+    },
+    {
+      "id": 122,
+      "title": "Vertical Order Traversal of a Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/vertical-order-traversal-of-a-binary-tree",
+      "practice_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+    },
+    {
+      "id": 123,
+      "title": "Top View of Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/top-view-of-binary-tree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+    },
+    {
+      "id": 124,
+      "title": "Bottom View of Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/bottom-view-of-binary-tree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+    },
+    {
+      "id": 125,
+      "title": "Binary Tree Right Side View",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-right-side-view",
+      "practice_url": "https://leetcode.com/problems/binary-tree-right-side-view/"
+    },
+    {
+      "id": 126,
+      "title": "Path Sum",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/path-sum",
+      "practice_url": "https://leetcode.com/problems/path-sum/"
+    },
+    {
+      "id": 127,
+      "title": "Validate Binary Search Tree",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/validate-binary-search-tree",
+      "practice_url": "https://leetcode.com/problems/validate-binary-search-tree/"
+    },
+    {
+      "id": 128,
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/lowest-common-ancestor-of-a-binary-search-tree",
+      "practice_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+      "id": 129,
+      "title": "Kth Smallest Element in a BST",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/kth-smallest-element-in-a-bst",
+      "practice_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+      "id": 130,
+      "title": "Binary Search Tree to Greater Sum Tree",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-search-tree-to-greater-sum-tree",
+      "practice_url": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/"
+    },
+    {
+      "id": 131,
+      "title": "Delete Node in a BST",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/delete-node-in-a-bst",
+      "practice_url": "https://leetcode.com/problems/delete-node-in-a-bst/"
+    },
+    {
+      "id": 132,
+      "title": "Insert into a Binary Search Tree",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/insert-into-a-binary-search-tree",
+      "practice_url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/"
+    },
+    {
+      "id": 133,
+      "title": "Recover Binary Search Tree",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/recover-binary-search-tree",
+      "practice_url": "https://leetcode.com/problems/recover-binary-search-tree/"
+    },
+    {
+      "id": 134,
+      "title": "Two Sum IV - Input is a BST",
+      "topic": "BST",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/two-sum-iv-input-is-a-bst",
+      "practice_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+    },
+    {
+      "id": 135,
+      "title": "Floor in BST",
+      "topic": "BST",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/floor-in-bst",
+      "practice_url": "https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1"
+    },
+    {
+      "id": 136,
+      "title": "Ceil in BST",
+      "topic": "BST",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/ceil-in-bst",
+      "practice_url": "https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1"
+    },
+    {
+      "id": 137,
+      "title": "Kth Largest in BST",
+      "topic": "BST",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/kth-largest-in-bst",
+      "practice_url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+    },
+    {
+      "id": 138,
+      "title": "Merge Two BSTs",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/merge-two-bsts",
+      "practice_url": "https://www.geeksforgeeks.org/problems/merge-two-bst-s/1"
+    },
+    {
+      "id": 139,
+      "title": "Kth Largest Element in a Stream",
+      "topic": "Heap",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/kth-largest-element-in-a-stream",
+      "practice_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+    },
+    {
+      "id": 140,
+      "title": "Last Stone Weight",
+      "topic": "Heap",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/last-stone-weight",
+      "practice_url": "https://leetcode.com/problems/last-stone-weight/"
+    },
+    {
+      "id": 141,
+      "title": "K Closest Points to Origin",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/k-closest-points-to-origin",
+      "practice_url": "https://leetcode.com/problems/k-closest-points-to-origin/"
+    },
+    {
+      "id": 142,
+      "title": "Task Scheduler",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/task-scheduler",
+      "practice_url": "https://leetcode.com/problems/task-scheduler/"
+    },
+    {
+      "id": 143,
+      "title": "Design Twitter",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/design-twitter",
+      "practice_url": "https://leetcode.com/problems/design-twitter/"
+    },
+    {
+      "id": 144,
+      "title": "Find Median from Data Stream",
+      "topic": "Heap",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-median-from-data-stream",
+      "practice_url": "https://leetcode.com/problems/find-median-from-data-stream/"
+    },
+    {
+      "id": 145,
+      "title": "Top K Frequent Elements",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/top-k-frequent-elements",
+      "practice_url": "https://leetcode.com/problems/top-k-frequent-elements/"
+    },
+    {
+      "id": 146,
+      "title": "Top K Frequent Words",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/top-k-frequent-words",
+      "practice_url": "https://leetcode.com/problems/top-k-frequent-words/"
+    },
+    {
+      "id": 147,
+      "title": "Sort Characters By Frequency",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sort-characters-by-frequency",
+      "practice_url": "https://leetcode.com/problems/sort-characters-by-frequency/"
+    },
+    {
+      "id": 148,
+      "title": "Number of Islands",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/number-of-islands",
+      "practice_url": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+      "id": 149,
+      "title": "Clone Graph",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/clone-graph",
+      "practice_url": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+      "id": 150,
+      "title": "Course Schedule",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/course-schedule",
+      "practice_url": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+      "id": 151,
+      "title": "Course Schedule II",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/course-schedule-ii",
+      "practice_url": "https://leetcode.com/problems/course-schedule-ii/"
+    },
+    {
+      "id": 152,
+      "title": "Pacific Atlantic Water Flow",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/pacific-atlantic-water-flow",
+      "practice_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+    },
+    {
+      "id": 153,
+      "title": "Surrounded Regions",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/surrounded-regions",
+      "practice_url": "https://leetcode.com/problems/surrounded-regions/"
+    },
+    {
+      "id": 154,
+      "title": "Rotting Oranges",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/rotting-oranges",
+      "practice_url": "https://leetcode.com/problems/rotting-oranges/"
+    },
+    {
+      "id": 155,
+      "title": "Walls and Gates",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/walls-and-gates",
+      "practice_url": "https://leetcode.com/problems/walls-and-gates/"
+    },
+    {
+      "id": 156,
+      "title": "Word Ladder",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-ladder",
+      "practice_url": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+      "id": 157,
+      "title": "Redundant Connection",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/redundant-connection",
+      "practice_url": "https://leetcode.com/problems/redundant-connection/"
+    },
+    {
+      "id": 158,
+      "title": "Number of Connected Components in an Undirected Graph",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-connected-components-in-an-undirected-graph",
+      "practice_url": "https://www.geeksforgeeks.org/problems/connected-components-in-an-undirected-graph/1"
+    },
+    {
+      "id": 159,
+      "title": "Graph Valid Tree",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/graph-valid-tree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/is-it-a-tree/1"
+    },
+    {
+      "id": 160,
+      "title": "Flood Fill",
+      "topic": "Graph",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/flood-fill",
+      "practice_url": "https://leetcode.com/problems/flood-fill/"
+    },
+    {
+      "id": 161,
+      "title": "Undirected Graph Cycle",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/undirected-graph-cycle",
+      "practice_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+      "id": 162,
+      "title": "Directed Graph Cycle",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/directed-graph-cycle",
+      "practice_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+    },
+    {
+      "id": 163,
+      "title": "Topological Sort (DFS)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/topological-sort-dfs",
+      "practice_url": "https://www.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "id": 164,
+      "title": "Topological Sort (BFS - Kahn's)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/topological-sort-bfs-kahn-s",
+      "practice_url": "https://www.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "id": 165,
+      "title": "Dijkstra Algorithm",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/dijkstra-algorithm",
+      "practice_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+    },
+    {
+      "id": 166,
+      "title": "Bellman Ford",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/bellman-ford",
+      "practice_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1"
+    },
+    {
+      "id": 167,
+      "title": "Floyd Warshall",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/floyd-warshall",
+      "practice_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+    },
+    {
+      "id": 168,
+      "title": "Minimum Spanning Tree (Prim's)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-spanning-tree-prim-s",
+      "practice_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+    },
+    {
+      "id": 169,
+      "title": "Minimum Spanning Tree (Kruskal's)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-spanning-tree-kruskal-s",
+      "practice_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+    },
+    {
+      "id": 170,
+      "title": "Is Graph Bipartite?",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/is-graph-bipartite",
+      "practice_url": "https://leetcode.com/problems/is-graph-bipartite/"
+    },
+    {
+      "id": 171,
+      "title": "Shortest Path in Unweighted Graph",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/shortest-path-in-unweighted-graph",
+      "practice_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1"
+    },
+    {
+      "id": 172,
+      "title": "Number of Provinces",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-provinces",
+      "practice_url": "https://leetcode.com/problems/number-of-provinces/"
+    },
+    {
+      "id": 173,
+      "title": "Climbing Stairs",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/climbing-stairs",
+      "practice_url": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+      "id": 174,
+      "title": "Coin Change",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/coin-change",
+      "practice_url": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+      "id": 175,
+      "title": "Longest Increasing Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/longest-increasing-subsequence",
+      "practice_url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+      "id": 176,
+      "title": "Longest Common Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/longest-common-subsequence",
+      "practice_url": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    {
+      "id": 177,
+      "title": "Word Break",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-break",
+      "practice_url": "https://leetcode.com/problems/word-break/"
+    },
+    {
+      "id": 178,
+      "title": "Combination Sum IV",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/combination-sum-iv",
+      "practice_url": "https://leetcode.com/problems/combination-sum-iv/"
+    },
+    {
+      "id": 179,
+      "title": "House Robber",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/house-robber",
+      "practice_url": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+      "id": 180,
+      "title": "House Robber II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/house-robber-ii",
+      "practice_url": "https://leetcode.com/problems/house-robber-ii/"
+    },
+    {
+      "id": 181,
+      "title": "Decode Ways",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/decode-ways",
+      "practice_url": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+      "id": 182,
+      "title": "Unique Paths",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/unique-paths",
+      "practice_url": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+      "id": 183,
+      "title": "Jump Game",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/jump-game",
+      "practice_url": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+      "id": 184,
+      "title": "Jump Game II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/jump-game-ii",
+      "practice_url": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+      "id": 185,
+      "title": "0 - 1 Knapsack Problem",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/0-1-knapsack-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+    },
+    {
+      "id": 186,
+      "title": "Edit Distance",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/edit-distance",
+      "practice_url": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+      "id": 187,
+      "title": "Burst Balloons",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/burst-balloons",
+      "practice_url": "https://leetcode.com/problems/burst-balloons/"
+    },
+    {
+      "id": 188,
+      "title": "Regular Expression Matching",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/regular-expression-matching",
+      "practice_url": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+      "id": 189,
+      "title": "Partition Equal Subset Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/partition-equal-subset-sum",
+      "practice_url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+    },
+    {
+      "id": 190,
+      "title": "Subset Sum Problem",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/subset-sum-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
+    },
+    {
+      "id": 191,
+      "title": "Rod Cutting",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/rod-cutting",
+      "practice_url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1"
+    },
+    {
+      "id": 192,
+      "title": "Coin Change II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/coin-change-ii",
+      "practice_url": "https://leetcode.com/problems/coin-change-ii/"
+    },
+    {
+      "id": 193,
+      "title": "Minimum Path Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-path-sum",
+      "practice_url": "https://leetcode.com/problems/minimum-path-sum/"
+    },
+    {
+      "id": 194,
+      "title": "Triangle",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/triangle",
+      "practice_url": "https://leetcode.com/problems/triangle/"
+    },
+    {
+      "id": 195,
+      "title": "Matrix Chain Multiplication",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/matrix-chain-multiplication",
+      "practice_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1"
+    },
+    {
+      "id": 196,
+      "title": "Palindrome Partitioning II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/palindrome-partitioning-ii",
+      "practice_url": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+    },
+    {
+      "id": 197,
+      "title": "Longest Bitonic Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-bitonic-subsequence",
+      "practice_url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1"
+    },
+    {
+      "id": 198,
+      "title": "Count Subsets with Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-subsets-with-sum",
+      "practice_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1"
+    },
+    {
+      "id": 199,
+      "title": "N-th Tribonacci Number",
+      "topic": "Dynamic Programming",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/n-th-tribonacci-number",
+      "practice_url": "https://leetcode.com/problems/n-th-tribonacci-number/"
+    },
+    {
+      "id": 200,
+      "title": "Frog Jump",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/frog-jump",
+      "practice_url": "https://leetcode.com/problems/frog-jump/"
+    },
+    {
+      "id": 201,
+      "title": "Subsets",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/subsets",
+      "practice_url": "https://leetcode.com/problems/subsets/"
+    },
+    {
+      "id": 202,
+      "title": "Subsets II",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/subsets-ii",
+      "practice_url": "https://leetcode.com/problems/subsets-ii/"
+    },
+    {
+      "id": 203,
+      "title": "Combination Sum",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/combination-sum",
+      "practice_url": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+      "id": 204,
+      "title": "Combination Sum II",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/combination-sum-ii",
+      "practice_url": "https://leetcode.com/problems/combination-sum-ii/"
+    },
+    {
+      "id": 205,
+      "title": "Permutations",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/permutations",
+      "practice_url": "https://leetcode.com/problems/permutations/"
+    },
+    {
+      "id": 206,
+      "title": "Permutations II",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/permutations-ii",
+      "practice_url": "https://leetcode.com/problems/permutations-ii/"
+    },
+    {
+      "id": 207,
+      "title": "N-Queens",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/n-queens",
+      "practice_url": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+      "id": 208,
+      "title": "Sudoku Solver",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sudoku-solver",
+      "practice_url": "https://leetcode.com/problems/sudoku-solver/"
+    },
+    {
+      "id": 209,
+      "title": "Palindrome Partitioning",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/palindrome-partitioning",
+      "practice_url": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+      "id": 210,
+      "title": "Rat in a Maze",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/rat-in-a-maze",
+      "practice_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    },
+    {
+      "id": 211,
+      "title": "Letter Combinations of a Phone Number",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/letter-combinations-of-a-phone-number",
+      "practice_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+      "id": 212,
+      "title": "Word Search II",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-search-ii",
+      "practice_url": "https://leetcode.com/problems/word-search-ii/"
+    },
+    {
+      "id": 213,
+      "title": "Single Number",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/single-number",
+      "practice_url": "https://leetcode.com/problems/single-number/"
+    },
+    {
+      "id": 214,
+      "title": "Number of 1 Bits",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-1-bits",
+      "practice_url": "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    {
+      "id": 215,
+      "title": "Counting Bits",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/counting-bits",
+      "practice_url": "https://leetcode.com/problems/counting-bits/"
+    },
+    {
+      "id": 216,
+      "title": "Reverse Bits",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reverse-bits",
+      "practice_url": "https://leetcode.com/problems/reverse-bits/"
+    },
+    {
+      "id": 217,
+      "title": "Missing Number",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/missing-number",
+      "practice_url": "https://leetcode.com/problems/missing-number/"
+    },
+    {
+      "id": 218,
+      "title": "Sum of Two Integers",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sum-of-two-integers",
+      "practice_url": "https://leetcode.com/problems/sum-of-two-integers/"
+    },
+    {
+      "id": 219,
+      "title": "Power of Two",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/power-of-two",
+      "practice_url": "https://leetcode.com/problems/power-of-two/"
+    },
+    {
+      "id": 220,
+      "title": "XOR Queries of a Subarray",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/xor-queries-of-a-subarray",
+      "practice_url": "https://leetcode.com/problems/xor-queries-of-a-subarray/"
+    },
+    {
+      "id": 221,
+      "title": "Implement Trie (Prefix Tree)",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/implement-trie-prefix-tree",
+      "practice_url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+    },
+    {
+      "id": 222,
+      "title": "Design Add and Search Words Data Structure",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/design-add-and-search-words-data-structure",
+      "practice_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+      "id": 223,
+      "title": "Word Search II (Trie)",
+      "topic": "Trie",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-search-ii-trie",
+      "practice_url": "https://leetcode.com/problems/word-search-ii/"
+    },
+    {
+      "id": 224,
+      "title": "Maximum XOR of Two Numbers in an Array",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximum-xor-of-two-numbers-in-an-array",
+      "practice_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
+    },
+    {
+      "id": 225,
+      "title": "Count Distinct Substrings (Trie)",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-distinct-substrings-trie",
+      "practice_url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1"
+    },
+    {
+      "id": 226,
+      "title": "Longest Word in Dictionary",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-word-in-dictionary",
+      "practice_url": "https://leetcode.com/problems/longest-word-in-dictionary/"
+    },
+    {
+      "id": 227,
+      "title": "Jump Game (Greedy)",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/jump-game-greedy",
+      "practice_url": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+      "id": 228,
+      "title": "Activity Selection",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/activity-selection",
+      "practice_url": "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1"
+    },
+    {
+      "id": 229,
+      "title": "Fractional Knapsack",
+      "topic": "Greedy",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/fractional-knapsack",
+      "practice_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1"
+    },
+    {
+      "id": 230,
+      "title": "Gas Station",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/gas-station",
+      "practice_url": "https://leetcode.com/problems/gas-station/"
+    },
+    {
+      "id": 231,
+      "title": "Hand of Straights",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/hand-of-straights",
+      "practice_url": "https://leetcode.com/problems/hand-of-straights/"
+    },
+    {
+      "id": 232,
+      "title": "Merge Triplets to Form Target Triplet",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/merge-triplets-to-form-target-triplet",
+      "practice_url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/"
+    },
+    {
+      "id": 233,
+      "title": "Partition Labels",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/partition-labels",
+      "practice_url": "https://leetcode.com/problems/partition-labels/"
+    },
+    {
+      "id": 234,
+      "title": "Valid Parenthesis String",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/valid-parenthesis-string",
+      "practice_url": "https://leetcode.com/problems/valid-parenthesis-string/"
+    },
+    {
+      "id": 235,
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-number-of-arrows-to-burst-balloons",
+      "practice_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
+    },
+    {
+      "id": 236,
+      "title": "Job Sequencing Problem",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/job-sequencing-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
+    },
+    {
+      "id": 237,
+      "title": "Assign Cookies",
+      "topic": "Greedy",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/assign-cookies",
+      "practice_url": "https://leetcode.com/problems/assign-cookies/"
+    },
+    {
+      "id": 238,
+      "title": "Lemonade Change",
+      "topic": "Greedy",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/lemonade-change",
+      "practice_url": "https://leetcode.com/problems/lemonade-change/"
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum (Two Pointers)",
+      "topic": "Sliding Window",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sliding-window-maximum-two-pointers",
+      "practice_url": "https://leetcode.com/problems/sliding-window-maximum/"
+    },
+    {
+      "id": 240,
+      "title": "Minimum Size Subarray Sum",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-size-subarray-sum",
+      "practice_url": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    },
+    {
+      "id": 241,
+      "title": "Fruit Into Baskets",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/fruit-into-baskets",
+      "practice_url": "https://leetcode.com/problems/fruit-into-baskets/"
+    },
+    {
+      "id": 242,
+      "title": "Number of Substrings Containing All Three Characters",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-substrings-containing-all-three-characters",
+      "practice_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/"
+    },
+    {
+      "id": 243,
+      "title": "Max Consecutive Ones III",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/max-consecutive-ones-iii",
+      "practice_url": "https://leetcode.com/problems/max-consecutive-ones-iii/"
+    },
+    {
+      "id": 244,
+      "title": "Count Occurrences of Anagrams",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-occurrences-of-anagrams",
+      "practice_url": "https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1"
+    },
+    {
+      "id": 245,
+      "title": "Valid Palindrome II",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/valid-palindrome-ii",
+      "practice_url": "https://leetcode.com/problems/valid-palindrome-ii/"
+    },
+    {
+      "id": 246,
+      "title": "Two Sum II - Input Array Is Sorted",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/two-sum-ii-input-array-is-sorted",
+      "practice_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
+    {
+      "id": 247,
+      "title": "4Sum",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/4sum",
+      "practice_url": "https://leetcode.com/problems/4sum/"
+    },
+    {
+      "id": 248,
+      "title": "Move Zeroes",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/move-zeroes",
+      "practice_url": "https://leetcode.com/problems/move-zeroes/"
+    },
+    {
+      "id": 249,
+      "title": "Remove Duplicates from Sorted Array",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/remove-duplicates-from-sorted-array",
+      "practice_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+      "id": 250,
+      "title": "Squares of a Sorted Array",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/squares-of-a-sorted-array",
+      "practice_url": "https://leetcode.com/problems/squares-of-a-sorted-array/"
+    },
+    {
+      "id": 251,
+      "title": "Factorials of Large",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/factorials-of-large",
+      "practice_url": "https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1"
+    },
+    {
+      "id": 252,
+      "title": "Fibonacci Number",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/fibonacci-number",
+      "practice_url": "https://leetcode.com/problems/fibonacci-number/"
+    },
+    {
+      "id": 253,
+      "title": "Tower Of Hanoi",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/tower-of-hanoi",
+      "practice_url": "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1"
+    },
+    {
+      "id": 254,
+      "title": "Pow(x, n) (Fast Exponentiation)",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/pow-x-n-fast-exponentiation",
+      "practice_url": "https://leetcode.com/problems/powx-n/"
+    },
+    {
+      "id": 255,
+      "title": "Flood Fill (Recursion)",
+      "topic": "Recursion",
+      "difficulty": "Easy",
+      "sheets": [
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/flood-fill-recursion",
+      "practice_url": "https://leetcode.com/problems/flood-fill/"
+    },
+    {
+      "id": 256,
+      "title": "Josephus problem",
+      "topic": "Recursion",
+      "difficulty": "Hard",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/josephus-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/josephus-problem/1"
+    },
+    {
+      "id": 257,
+      "title": "GCD of Two",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/gcd-of-two",
+      "practice_url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1"
+    },
+    {
+      "id": 258,
+      "title": "Sieve of Eratosthenes",
+      "topic": "Math",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/sieve-of-eratosthenes",
+      "practice_url": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1"
+    },
+    {
+      "id": 259,
+      "title": "Count Primes",
+      "topic": "Math",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-primes",
+      "practice_url": "https://leetcode.com/problems/count-primes/"
+    },
+    {
+      "id": 260,
+      "title": "Palindrome Number",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/palindrome-number",
+      "practice_url": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+      "id": 261,
+      "title": "Reverse Integer",
+      "topic": "Math",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reverse-integer",
+      "practice_url": "https://leetcode.com/problems/reverse-integer/"
+    },
+    {
+      "id": 262,
+      "title": "Excel Sheet Column Number",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/excel-sheet-column-number",
+      "practice_url": "https://leetcode.com/problems/excel-sheet-column-number/"
+    },
+    {
+      "id": 263,
+      "title": "Happy Number",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/happy-number",
+      "practice_url": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+      "id": 264,
+      "title": "Pow(x, n)",
+      "topic": "Math",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/pow-x-n",
+      "practice_url": "https://leetcode.com/problems/powx-n/"
+    },
+    {
+      "id": 265,
+      "title": "First n Fibonacci using DP",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/first-n-fibonacci-using-dp",
+      "practice_url": "https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1"
+    },
+    {
+      "id": 266,
+      "title": "Flatten Binary Tree to Linked List",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/flatten-binary-tree-to-linked-list",
+      "practice_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+    },
+    {
+      "id": 267,
+      "title": "Binary Tree Inorder Traversal (Binary Trees)",
+      "topic": "Binary Trees",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-inorder-traversal-binary-trees",
+      "practice_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+    },
+    {
+      "id": 268,
+      "title": "Children Sum in a Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/children-sum-in-a-binary-tree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
+    },
+    {
+      "id": 269,
+      "title": "All Nodes Distance K in Binary Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/all-nodes-distance-k-in-binary-tree",
+      "practice_url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+    },
+    {
+      "id": 270,
+      "title": "Burning Tree",
+      "topic": "Binary Trees",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/burning-tree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/burning-tree/1"
+    },
+    {
+      "id": 271,
+      "title": "Count Complete Tree Nodes",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-complete-tree-nodes",
+      "practice_url": "https://leetcode.com/problems/count-complete-tree-nodes/"
+    },
+    {
+      "id": 272,
+      "title": "Course Schedule (Prerequisite Tasks)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/course-schedule-prerequisite-tasks",
+      "practice_url": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+      "id": 273,
+      "title": "Find Eventual Safe States",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-eventual-safe-states",
+      "practice_url": "https://leetcode.com/problems/find-eventual-safe-states/"
+    },
+    {
+      "id": 274,
+      "title": "Alien Dictionary",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/alien-dictionary",
+      "practice_url": "https://www.geeksforgeeks.org/problems/alien-dictionary/1"
+    },
+    {
+      "id": 275,
+      "title": "Network Delay Time",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/network-delay-time",
+      "practice_url": "https://leetcode.com/problems/network-delay-time/"
+    },
+    {
+      "id": 276,
+      "title": "Cheapest Flights Within K Stops",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/cheapest-flights-within-k-stops",
+      "practice_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+      "id": 277,
+      "title": "Path With Minimum Effort",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/path-with-minimum-effort",
+      "practice_url": "https://leetcode.com/problems/path-with-minimum-effort/"
+    },
+    {
+      "id": 278,
+      "title": "Swim in Rising Water",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/swim-in-rising-water",
+      "practice_url": "https://leetcode.com/problems/swim-in-rising-water/"
+    },
+    {
+      "id": 279,
+      "title": "Accounts Merge",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/accounts-merge",
+      "practice_url": "https://leetcode.com/problems/accounts-merge/"
+    },
+    {
+      "id": 280,
+      "title": "Making A Large Island",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/making-a-large-island",
+      "practice_url": "https://leetcode.com/problems/making-a-large-island/"
+    },
+    {
+      "id": 281,
+      "title": "Stock Span Problem",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/stock-span-problem",
+      "practice_url": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1"
+    },
+    {
+      "id": 282,
+      "title": "Asteroid Collision",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/asteroid-collision",
+      "practice_url": "https://leetcode.com/problems/asteroid-collision/"
+    },
+    {
+      "id": 283,
+      "title": "Sum of Subarray Minimums",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sum-of-subarray-minimums",
+      "practice_url": "https://leetcode.com/problems/sum-of-subarray-minimums/"
+    },
+    {
+      "id": 284,
+      "title": "Remove K Digits",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/remove-k-digits",
+      "practice_url": "https://leetcode.com/problems/remove-k-digits/"
+    },
+    {
+      "id": 285,
+      "title": "Largest Rectangle in Histogram (Stack)",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/largest-rectangle-in-histogram-stack",
+      "practice_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    },
+    {
+      "id": 286,
+      "title": "Maximal Rectangle",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximal-rectangle",
+      "practice_url": "https://leetcode.com/problems/maximal-rectangle/"
+    },
+    {
+      "id": 287,
+      "title": "Binary Tree to DLL",
+      "topic": "BST",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-to-dll",
+      "practice_url": "https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1"
+    },
+    {
+      "id": 288,
+      "title": "k-th Smallest in BST",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/k-th-smallest-in-bst",
+      "practice_url": "https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1"
+    },
+    {
+      "id": 289,
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/construct-binary-search-tree-from-preorder-traversal",
+      "practice_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+    },
+    {
+      "id": 290,
+      "title": "Inorder Successor in BST",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/inorder-successor-in-bst",
+      "practice_url": "https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1"
+    },
+    {
+      "id": 291,
+      "title": "Max Sum of Non-Adjacent Elements",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/max-sum-of-non-adjacent-elements",
+      "practice_url": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1"
+    },
+    {
+      "id": 292,
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock-with-cooldown",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    },
+    {
+      "id": 293,
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock-with-transaction-fee",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/"
+    },
+    {
+      "id": 294,
+      "title": "Best Time to Buy and Sell Stock III",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock-iii",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+    },
+    {
+      "id": 295,
+      "title": "Best Time to Buy and Sell Stock IV",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/best-time-to-buy-and-sell-stock-iv",
+      "practice_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+    },
+    {
+      "id": 296,
+      "title": "Longest String Chain",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-string-chain",
+      "practice_url": "https://leetcode.com/problems/longest-string-chain/"
+    },
+    {
+      "id": 297,
+      "title": "Wildcard Matching",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/wildcard-matching",
+      "practice_url": "https://leetcode.com/problems/wildcard-matching/"
+    },
+    {
+      "id": 298,
+      "title": "Number of Longest Increasing Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-longest-increasing-subsequence",
+      "practice_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/"
+    },
+    {
+      "id": 299,
+      "title": "Distinct Subsequences",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/distinct-subsequences",
+      "practice_url": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+      "id": 300,
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-insertion-steps-to-make-a-string-palindrome",
+      "practice_url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+    },
+    {
+      "id": 301,
+      "title": "Longest Palindromic Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-palindromic-subsequence",
+      "practice_url": "https://leetcode.com/problems/longest-palindromic-subsequence/"
+    },
+    {
+      "id": 302,
+      "title": "Delete Operation for Two Strings",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/delete-operation-for-two-strings",
+      "practice_url": "https://leetcode.com/problems/delete-operation-for-two-strings/"
+    },
+    {
+      "id": 303,
+      "title": "Shortest Common Supersequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/shortest-common-supersequence",
+      "practice_url": "https://leetcode.com/problems/shortest-common-supersequence/"
+    },
+    {
+      "id": 304,
+      "title": "Knapsack with Duplicate Items",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/knapsack-with-duplicate-items",
+      "practice_url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1"
+    },
+    {
+      "id": 305,
+      "title": "Maximal Rectangle (Dynamic Programming)",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximal-rectangle-dynamic-programming",
+      "practice_url": "https://leetcode.com/problems/maximal-rectangle/"
+    },
+    {
+      "id": 306,
+      "title": "Longest Arithmetic Subsequence",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-arithmetic-subsequence",
+      "practice_url": "https://leetcode.com/problems/longest-arithmetic-subsequence/"
+    },
+    {
+      "id": 307,
+      "title": "Boolean Parenthesization",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/boolean-parenthesization",
+      "practice_url": "https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1"
+    },
+    {
+      "id": 308,
+      "title": "K-th Symbol in Grammar",
+      "topic": "Recursion",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/k-th-symbol-in-grammar",
+      "practice_url": "https://leetcode.com/problems/k-th-symbol-in-grammar/"
+    },
+    {
+      "id": 309,
+      "title": "Sort Colors (Arrays)",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/sort-colors-arrays",
+      "practice_url": "https://leetcode.com/problems/sort-colors/"
+    },
+    {
+      "id": 310,
+      "title": "Array Leaders",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/array-leaders",
+      "practice_url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
+    },
+    {
+      "id": 311,
+      "title": "Missing And Repeating (Arrays)",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/missing-and-repeating-arrays",
+      "practice_url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+    },
+    {
+      "id": 312,
+      "title": "Count Subarrays with given XOR",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-subarrays-with-given-xor",
+      "practice_url": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1"
+    },
+    {
+      "id": 313,
+      "title": "Maximum Points You Can Obtain from Cards",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximum-points-you-can-obtain-from-cards",
+      "practice_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
+    },
+    {
+      "id": 314,
+      "title": "Longest Substring with K Uniques",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-substring-with-k-uniques",
+      "practice_url": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
+    },
+    {
+      "id": 315,
+      "title": "All Divisors of Number",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/all-divisors-of-number",
+      "practice_url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1"
+    },
+    {
+      "id": 316,
+      "title": "Armstrong Numbers",
+      "topic": "Math",
+      "difficulty": "Easy",
+      "sheets": [
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/armstrong-numbers",
+      "practice_url": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1"
+    },
+    {
+      "id": 317,
+      "title": "Largest Number",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/largest-number",
+      "practice_url": "https://leetcode.com/problems/largest-number/"
+    },
+    {
+      "id": 318,
+      "title": "Minimum Platforms",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-platforms",
+      "practice_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"
+    },
+    {
+      "id": 319,
+      "title": "Activity Selection (N Meetings)",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/activity-selection-n-meetings",
+      "practice_url": "https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1"
+    },
+    {
+      "id": 320,
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "practice_url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
+    },
+    {
+      "id": 321,
+      "title": "Count Strongly Connected Components",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-strongly-connected-components",
+      "practice_url": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+    },
+    {
+      "id": 322,
+      "title": "Critical Connections in a Network",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/critical-connections-in-a-network",
+      "practice_url": "https://leetcode.com/problems/critical-connections-in-a-network/"
+    },
+    {
+      "id": 323,
+      "title": "Articulation Point",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/articulation-point",
+      "practice_url": "https://www.geeksforgeeks.org/problems/articulation-point2616/1"
+    },
+    {
+      "id": 324,
+      "title": "Topological Sort (Kahn's Algorithm)",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/topological-sort-kahn-s-algorithm",
+      "practice_url": "https://www.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "id": 325,
+      "title": "Min Cost to Connect All Points",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/min-cost-to-connect-all-points",
+      "practice_url": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+    },
+    {
+      "id": 326,
+      "title": "Unique Paths (DP on Grid)",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/unique-paths-dp-on-grid",
+      "practice_url": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+      "id": 327,
+      "title": "Unique Paths II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/unique-paths-ii",
+      "practice_url": "https://leetcode.com/problems/unique-paths-ii/"
+    },
+    {
+      "id": 328,
+      "title": "Minimum Falling Path Sum",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-falling-path-sum",
+      "practice_url": "https://leetcode.com/problems/minimum-falling-path-sum/"
+    },
+    {
+      "id": 329,
+      "title": "Cherry Pickup II",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/cherry-pickup-ii",
+      "practice_url": "https://leetcode.com/problems/cherry-pickup-ii/"
+    },
+    {
+      "id": 330,
+      "title": "Find the Index of the First Occurrence in a String (Pattern Matching)",
+      "topic": "Strings",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-the-index-of-the-first-occurrence-in-a-string-pattern-matching",
+      "practice_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+    },
+    {
+      "id": 331,
+      "title": "Search Pattern (Rabin-Karp Algorithm)",
+      "topic": "Strings",
+      "difficulty": "Hard",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/search-pattern-rabin-karp-algorithm",
+      "practice_url": "https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1"
+    },
+    {
+      "id": 332,
+      "title": "Z-Algorithm",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/z-algorithm",
+      "practice_url": "https://www.geeksforgeeks.org/dsa/z-algorithm-linear-time-pattern-searching-algorithm/"
+    },
+    {
+      "id": 333,
+      "title": "Maximum Sum Submatrix",
+      "topic": "Dynamic Programming",
+      "difficulty": "Hard",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximum-sum-submatrix",
+      "practice_url": "https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1"
+    },
+    {
+      "id": 334,
+      "title": "Count Square Submatrices with All Ones",
+      "topic": "Dynamic Programming",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-square-submatrices-with-all-ones",
+      "practice_url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/"
+    },
+    {
+      "id": 335,
+      "title": "K-th Largest Sum Contiguous Subarray",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/k-th-largest-sum-contiguous-subarray",
+      "practice_url": "https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1"
+    },
+    {
+      "id": 336,
+      "title": "IPO",
+      "topic": "Heap",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/ipo",
+      "practice_url": "https://leetcode.com/problems/ipo/"
+    },
+    {
+      "id": 337,
+      "title": "Minimum Cost to Connect Sticks",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-cost-to-connect-sticks",
+      "practice_url": "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1"
+    },
+    {
+      "id": 338,
+      "title": "Reorganize String",
+      "topic": "Heap",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/reorganize-string",
+      "practice_url": "https://leetcode.com/problems/reorganize-string/"
+    },
+    {
+      "id": 339,
+      "title": "Count Strings with Given Prefix",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-strings-with-given-prefix",
+      "practice_url": "https://www.geeksforgeeks.org/problems/count-strings-with-given-prefix/1"
+    },
+    {
+      "id": 340,
+      "title": "Count Distinct Substrings",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-distinct-substrings",
+      "practice_url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1"
+    },
+    {
+      "id": 341,
+      "title": "Complete String",
+      "topic": "Trie",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/complete-string",
+      "practice_url": "https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1"
+    },
+    {
+      "id": 342,
+      "title": "Count all pairs with given XOR",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-all-pairs-with-given-xor",
+      "practice_url": "https://www.geeksforgeeks.org/dsa/count-pairs-given-xor/"
+    },
+    {
+      "id": 343,
+      "title": "Unique Number II",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/unique-number-ii",
+      "practice_url": "https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1"
+    },
+    {
+      "id": 344,
+      "title": "Divide Two Integers",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/divide-two-integers",
+      "practice_url": "https://leetcode.com/problems/divide-two-integers/"
+    },
+    {
+      "id": 345,
+      "title": "Longest Subarray with Sum K",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Apna College"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/longest-subarray-with-sum-k",
+      "practice_url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1"
+    },
+    {
+      "id": 346,
+      "title": "Subarray Sum Equals K",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/subarray-sum-equals-k",
+      "practice_url": "https://leetcode.com/problems/subarray-sum-equals-k/"
+    },
+    {
+      "id": 347,
+      "title": "Longest Consecutive Sequence",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450",
+        "Apna College"
+      ],
+      "consensus": true,
+      "url": "https://dsatracker.tech/problem/longest-consecutive-sequence",
+      "practice_url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    {
+      "id": 348,
+      "title": "Rearrange Array Elements by Sign",
+      "topic": "Arrays",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/rearrange-array-elements-by-sign",
+      "practice_url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/"
+    },
+    {
+      "id": 349,
+      "title": "Check if Array Is Sorted and Rotated",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/check-if-array-is-sorted-and-rotated",
+      "practice_url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/"
+    },
+    {
+      "id": 350,
+      "title": "Single Element in a Sorted Array",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/single-element-in-a-sorted-array",
+      "practice_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+    },
+    {
+      "id": 351,
+      "title": "Implement Lower Bound",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/implement-lower-bound",
+      "practice_url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1"
+    },
+    {
+      "id": 352,
+      "title": "Row with Max 1s in Rowwise Sorted",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/row-with-max-1s-in-rowwise-sorted",
+      "practice_url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+    },
+    {
+      "id": 353,
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-number-of-days-to-make-m-bouquets",
+      "practice_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/"
+    },
+    {
+      "id": 354,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/find-the-smallest-divisor-given-a-threshold",
+      "practice_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/"
+    },
+    {
+      "id": 355,
+      "title": "Split Array Largest Sum",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/split-array-largest-sum",
+      "practice_url": "https://leetcode.com/problems/split-array-largest-sum/"
+    },
+    {
+      "id": 356,
+      "title": "Minimum Number of Days to Disconnect Island",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/minimum-number-of-days-to-disconnect-island",
+      "practice_url": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/"
+    },
+    {
+      "id": 357,
+      "title": "Shortest Path in Directed Acyclic Graph",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/shortest-path-in-directed-acyclic-graph",
+      "practice_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1"
+    },
+    {
+      "id": 358,
+      "title": "Word Ladder II",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/word-ladder-ii",
+      "practice_url": "https://leetcode.com/problems/word-ladder-ii/"
+    },
+    {
+      "id": 359,
+      "title": "Remove Stones to Minimize the Total",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/remove-stones-to-minimize-the-total",
+      "practice_url": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/"
+    },
+    {
+      "id": 360,
+      "title": "Number of Islands II",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/number-of-islands-ii",
+      "practice_url": "https://www.geeksforgeeks.org/problems/number-of-islands/1"
+    },
+    {
+      "id": 361,
+      "title": "Most Stones Removed with Same Row or Column",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/most-stones-removed-with-same-row-or-column",
+      "practice_url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/"
+    },
+    {
+      "id": 362,
+      "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "topic": "Graph",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "practice_url": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/"
+    },
+    {
+      "id": 363,
+      "title": "Maximum Connected with One Change",
+      "topic": "Graph",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/maximum-connected-with-one-change",
+      "practice_url": "https://www.geeksforgeeks.org/problems/maximum-connected-group/1"
+    },
+    {
+      "id": 364,
+      "title": "Isomorphic Trees",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/isomorphic-trees",
+      "practice_url": "https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1"
+    },
+    {
+      "id": 365,
+      "title": "Sum Root to Leaf Numbers",
+      "topic": "Binary Trees",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/sum-root-to-leaf-numbers",
+      "practice_url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+      "id": 366,
+      "title": "Binary Tree Cameras",
+      "topic": "Binary Trees",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/binary-tree-cameras",
+      "practice_url": "https://leetcode.com/problems/binary-tree-cameras/"
+    },
+    {
+      "id": 367,
+      "title": "Recover Binary Search Tree (Swap Nodes)",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/recover-binary-search-tree-swap-nodes",
+      "practice_url": "https://leetcode.com/problems/recover-binary-search-tree/"
+    },
+    {
+      "id": 368,
+      "title": "Largest BST Subtree",
+      "topic": "BST",
+      "difficulty": "Hard",
+      "sheets": [
+        "Striver A2Z",
+        "Love Babbar 450"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/largest-bst-subtree",
+      "practice_url": "https://www.geeksforgeeks.org/problems/largest-bst/1"
+    },
+    {
+      "id": 369,
+      "title": "Unique Binary Search Trees",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/unique-binary-search-trees",
+      "practice_url": "https://leetcode.com/problems/unique-binary-search-trees/"
+    },
+    {
+      "id": 370,
+      "title": "Unique Binary Search Trees II",
+      "topic": "BST",
+      "difficulty": "Medium",
+      "sheets": [
+        "Striver A2Z"
+      ],
+      "consensus": false,
+      "url": "https://dsatracker.tech/problem/unique-binary-search-trees-ii",
+      "practice_url": "https://leetcode.com/problems/unique-binary-search-trees-ii/"
+    }
+  ]
+}
